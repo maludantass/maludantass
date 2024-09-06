@@ -7,12 +7,26 @@ Join me on this GitHub journey as I learn, code, and geek out over the latest te
 
 ![Maria Luíza Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=maludantass&show_icons=true&theme=dracula&count_private=true)
 
-## Other Technologies
-<br/>
-I apply these technologies in personal and college projects, enhancing my programming and problem-solving skills. This practical and academic experience strengthens my development as a programmer and prepares me to tackle real-world challenges.
-<br/>
-<br/>
-<div style="display: inline_block">
-</div><br/>  
+## Skills
 
-🚀 Let's connect! Hit me up for collabs, chats, or just to share some tech excitement.
+- **Programming Languages:** Python, C, JavaScript
+- **Web Development:** HTML, CSS
+- **Other Skills:** Excel
+
+## Projects
+
+I’m working on several interesting projects, and you can follow my progress here on GitHub. Feel free to explore and contribute!
+
+## Goals
+
+I hope to create meaningful connections with other developers and continuously learn from the community. If you’re interested in collaborating or discussing technology, feel free to reach out!
+
+## Contact
+
+You can find me at:
+
+- **LinkedIn:** linkedin.com/in/maludantass
+- **Email:** mldt@cesar.school
+
+
+🚀 Thanks for visiting my profile!
