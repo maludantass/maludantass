@@ -9,8 +9,8 @@ Join me on this GitHub journey as I learn, code, and geek out over the latest te
 
 ## Skills
 
-- **Programming Languages:** Python, C, JavaScript
-- **Web Development:** HTML, CSS
+- **Programming Languages:** Python, C, Java
+- **Web Development:** HTML, CSS, JavaScript
 - **Other Skills:** Excel
 
 ## Projects
