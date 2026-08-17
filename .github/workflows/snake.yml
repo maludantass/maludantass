@@ -17,15 +17,17 @@ jobs:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: maludantass
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          target_branch: output
           build_dir: dist
-          branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
